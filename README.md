@@ -14,10 +14,10 @@ followoes: 0 repos: 4 with private ones
 ---
 
 ## 📱 devices
-redmi note 9 pro (have 2 but one of them doesn't have screen)
-iphon 12 pro max (main)
-redmi 8 (ded, dont have time for fixing that shit)
-redmi note 10s (mostly used in a day for testing ported roms)
+- redmi note 9 pro (have 2 but one of them doesn't have screen)
+- iphon 12 pro max (main)
+- redmi 8 (ded, dont have time for fixing that shit)
+- redmi note 10s (mostly used in a day for testing ported roms)
 
 ## 📊 profile views
 <p align="center">
