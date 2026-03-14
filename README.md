@@ -1,5 +1,5 @@
 ## 👋 wilcommen sir
-i'm from **Turkey (TR)**.
+i'm from **usa (abd)**.
 pro at developing custom roms and messing up with phones.
 
 i'm working on a private thing(s).
