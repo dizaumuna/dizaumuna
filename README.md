@@ -1,10 +1,7 @@
 ## 👋 wilcommen sir
-i'm from **usa (abd)**.
 pro at developing custom roms and messing up with phones.
 
-i'm working on a private thing(s).
-
-followoes: 1 repos: 2 with private ones
+followoes: 1 repos: 6 with private ones
 
 ## ❓ what i know sir
 - ☕ super cool csharp
