@@ -3,7 +3,7 @@ pro at developing custom roms and messing up with phones.
 
 i'm working on "server" project which is allows you to build oxygenos 15 for note 9 pro.
 
-## 💻 devices:
+## 💻 devices
 - redmi note 9 pro (2x, 128gb, windows 11 on both)
 - redmi note 10s (1x, 128gb, android 16)
 - lenovo ideapad l340-15iwl (macos, ubuntu and windows, triple boot, i5-8265U, 8gb ram)
@@ -11,7 +11,7 @@ i'm working on "server" project which is allows you to build oxygenos 15 for not
 
 ## ❓ what i know sir
 - ☕ super cool csharp
-- 💻 smali and bash
+- 💻 baksmali, smali and bash
 - 🐧 nice kernel knowledge
 
 ---
