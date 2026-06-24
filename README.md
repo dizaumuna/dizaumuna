@@ -4,7 +4,7 @@ pro at developing custom roms and messing up with phones.
 ## 💻 devices
 - redmi note 9 pro (2x, 128gb, windows 11 on both)
 - redmi note 10s (1x, 128gb, android 16)
-- macbook air m1 (256gb sequoia)
+- a tank bomba pc (ryzen 5 5500)
 
 ## ❓ what i know sir
 - ☕ super cool csharp
