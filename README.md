@@ -1,23 +1,21 @@
-## 👋 wilcommen sir
-pro at developing custom roms and messing up with phones.
+## 👋 Welcome
+Mostly I do porting BBK ROMs, or messing up with my secondary device.
 
-## 💻 devices
-- redmi note 9 pro (2x, 128gb, windows 11 on both)
-- redmi note 10s (1x, 128gb, android 16)
-- a tank bomba pc (ryzen 5 5500)
+## 💻 Devices that I own
+- 1 Redmi Note 9 Pro
+- iPhone 14 Pro
+- A tank bomba pc (ryzen 5 5500)
 
-## ❓ what i know sir
+## ❓ What languages do I know?
 - ☕ super cool csharp
 - 💻 baksmali, smali and bash
 - 🐧 nice kernel knowledge
 
 ---
 
-## 📊 git stats
+## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dizaumuna&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-cs2?
+For downloading ColorOS ROMs, use this website: https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20ACE%203/ (mostly that's what I'm using for getting base firmware)
