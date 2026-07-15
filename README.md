@@ -1,11 +1,6 @@
 ## 👋 Welcome
 Mostly I do porting BBK ROMs, or messing up with my secondary device.
 
-## 💻 Devices that I own
-- 1 Redmi Note 9 Pro
-- iPhone 14 Pro
-- A tank bomba pc (ryzen 5 5500)
-
 ## ❓ What languages do I know?
 - ☕ super cool csharp
 - 💻 baksmali, smali and bash
